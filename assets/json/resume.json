@@ -19,6 +19,7 @@
   "work": [
     {
       "name": "University of Washington",
+      "location": "Seattle, USA",
       "position": "Postdoctoral Researcher",
       "url": "",
       "startDate": "2024-01-01",
@@ -31,6 +32,7 @@
     },
     {
       "name": "Strasbourg University",
+      "location": "Strasbourg, France",
       "position": "Computer Science Teacher",
       "url": "",
       "startDate": "2022-01-01",
@@ -44,6 +46,7 @@
     },
     {
       "name": "Joint Research Unit in Environmental Acoustics (UMRAE)",
+      "location": "Strasbourg, France",
       "position": "Trainee Researcher",
       "url": "",
       "startDate": "2020-01-01",
@@ -53,6 +56,7 @@
     },
     {
       "name": "Technical University of Eindhoven (TU/e)",
+      "location": "Eindhoven, Netherlands",
       "position": "Trainee Researcher",
       "url": "",
       "startDate": "2017-01-01",
@@ -64,6 +68,7 @@
     },
     {
       "name": "CERN, the European Organization for Nuclear Research",
+      "location": "Geneva, Switzerland",
       "position": "Trainee Engineer",
       "url": "",
       "startDate": "2017-01-01",
@@ -78,14 +83,16 @@
       "institution": "Le Mans University",
       "location": "Le Mans, France",
       "url": "",
-      "area": "Acoustic propagation in forest environments",
+      "area": "Acoustic propagation in forest environments. Time domain numerical methods toward bioacoustic applications.",
       "studyType": "Ph.D.",
       "startDate": "2020-01-01",
       "endDate": "2023-01-01",
       "score": "",
       "courses": [
-        "Time domain numerical methods toward bioacoustic applications",
-        "Transmission Line Matrix Method for modeling long-range forest scenarios"
+        "Theoretical study on the Transmission Line Matrix Method for modeling long-range forest scenarios",
+        "Updating, improving and maintaining a code architecture in Python and OpenCL (C99)",
+        "Collaboration with bioacousticians (MNHN) for in-situ data",
+        "Supervision of an intern from the computer science University Institute of Technology (IUT), Strasbourg (6 months internship)"
       ]
     },
     {
@@ -137,14 +144,14 @@
   "awards": [
     {
       "title": "Early Career Presenter Award in Computational Acoustics",
-      "date": "2023-01-01",
+      "date": "2024",
       "awarder": "Acoustical Society of America",
       "url": "",
       "summary": "Award received at the 186th ASA meeting, Ottawa, Canada."
     },
     {
       "title": "University of Washington eScience postdoctoral fellowship",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "University of Washington",
       "url": "",
       "summary": "Postdoctoral fellowship in Seattle, USA."
@@ -194,7 +201,8 @@
         "Sound & biodiversity",
         "Disturbance noise effect on quiet areas",
         "Time domain methods",
-        "Meshing processes"
+        "Meshing processes",
+        "Distributed acoustic sensing (DAS)"
       ]
     }
   ],
