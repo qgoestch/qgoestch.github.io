@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ocean.washington.edu/'>Affiliations</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: True # crops the image to make it circular
+  address: >
+    <p>Ph.D. in acoustics</p>
+    <p>Environmental Acoustics</p>
+    <p>Numerical Methods</p>
+    <p>Distributed Acoustics Sensing</p>
+    <p>Passive Acoustics Monitoring</p>
+    <p>Marine Mammals</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ph.D. in acoustics. Postdoctoral researcher at the [School of Oceanography](https://www.ocean.washington.edu/) in the [Ocean Data Lab](https://sites.uw.edu/abadi/) on marine mammal localization using distributed acoustic sensing (DAS).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Former student of [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) and [Sorbonne Université](https://sciences.sorbonne-universite.fr/en/masters/master-mechanical-engineering/acoustics-course), I did my Ph.D. in Acoustics at [UMRAE](https://www.umrae.fr/). The joint research unit is hosted by two institutes: the [CEREMA - Strasbourg](https://www.cerema.fr/en) and the [Université Gustave Eiffel - Nantes Campus](https://www.univ-gustave-eiffel.fr/en/), working together on noise characterization and reduction of its environmental impact. 
