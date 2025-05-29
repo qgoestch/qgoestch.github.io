@@ -3,7 +3,7 @@ layout: page
 title: Modeling sound energy diffusion in urban areas
 description: Work related to my internship at TU/e
 img: assets/img/Tetramesh_FVM.png
-importance: 2
+importance: 3
 category: work
 giscus_comments: false
 ---
