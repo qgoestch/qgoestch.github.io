@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink:
+permalink: /
 subtitle: <a href='https://www.ocean.washington.edu/'>Affiliations</a>. 
 
 profile:
