@@ -450,6 +450,11 @@ ninja.data = [{
           description: "Hiking the crest of the Pyrenees mountain range, from the Atlantic Ocean to the Mediterranean Sea.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-automated-detection-and-localization-of-fin-whale-calls-recorded-with-das",
+          title: 'Automated Detection and Localization of Fin Whale Calls Recorded with DAS',
+          description: "Project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
