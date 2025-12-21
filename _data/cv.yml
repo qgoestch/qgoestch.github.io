@@ -19,32 +19,31 @@
         - title: Short description
           contents:
             - Theoretical study on the Transmission Line Matrix Method for modeling long-range forest scenarios.
-            - Updating, improving and maintaining a code architecture in Python and OpenCL (C99). 
+            - Updating, improving and maintaining a code architecture in Python and OpenCL (C99).
             - Collaboration with bioacousticians (MNHN) for in-situ data.
             - Supervision of an intern from the computer science University Institute of Technology (IUT), Strasbourg (6 months internship).
         - Supervised by Gwenaël Guillaume, David Ecotière, Benoit Gauvreau
 
     - title: Master's degree in physical acoustics
-      institution: Sorbonne Université, Paris, France. 
+      institution: Sorbonne Université, Paris, France.
       year: 2020
       description:
-        - For the study of elastic waves. To model and synthesize acoustic fields.To learn how to manipulate sound as a diagnostic tool and information vector. Graduated with Highest Honors. 
+        - For the study of elastic waves. To model and synthesize acoustic fields.To learn how to manipulate sound as a diagnostic tool and information vector. Graduated with Highest Honors.
 
     - title: Master's degree of Ecole Normale supérieure Paris-Saclay
       institution: Ecole Normale supérieure Paris-Saclay, Cachan, France.
       year: 2020
       description:
-        - 4th year - Joint master's degree with Sorbonne Université.  
+        - 4th year - Joint master's degree with Sorbonne Université.
         - 3rd year - Pre-doctoral research year in a foreign country (TU/e, Eindhoven, cf. Experience).
         - 2nd year - Civil engineering master's degree. Fundamentals of mechanical engineering, including continuum mechanics, fluid mechanics, waves, vibrations, with a strong emphasis on numerical methods.
         - 1st year - Multidisciplinary formation in order to choose between the three engineering departments. Centered on the applied sciences in physics and engineering for research and teaching. (Equivalent to a third-year bachelor's degree)
-  
+
     - title: Preparatory classes for engineering colleges
       institution: Eugène Livet HighSchool, Nantes, France.
       year: 2015
-      description: 
+      description:
         - Two years of intensive courses on fundamentals of physics and technology to prepare Grandes Ecoles competitive entrance exams.
-    
 
 - title: Experience
   type: time_table
@@ -52,7 +51,7 @@
     - title: Postdoctoral Researcher
       institution: University of Washington, Seattle, USA
       year: 2024 - ongoing
-      description: 
+      description:
         - Postdoctoral scolarship at the School of Oceanography.
         - Study the capabilities of distributed acoustic sensing (DAS) to record low frequency baleen whale vocalizations.
         - Develop automated tools to detect and localize fin and blue whale calls with DAS. Contributing to the DAS4Whales open-source package.
@@ -63,27 +62,26 @@
       description:
         - Development technics. Teaching to second year students.
         - Basics of computer architecture. Teaching to first year students.
-        - Academic methodologies and techniques. Teaching to first year students. 
+        - Academic methodologies and techniques. Teaching to first year students.
 
-    - title: Trainee researcher  
+    - title: Trainee researcher
       institution: Joint Research Unit in Environmental Acoustics (UMRAE), Strasbourg, France.
       year: 2020
       description:
         - Numerical modeling of acoustic propagation over a forest floor using the TLM approach.
 
-    - title: Trainee researcher  
+    - title: Trainee researcher
       institution: Technical University of Eindhoven TU/e, Eindhoven, Netherlands.
       year: 2017-2018
       description:
         - Applicability of the diffusion equation method for acoustic simulations on 3D urban models.
-        - Development of a finite volume method Matlab code to model sound energy density diffusion in irregular tetrahedral meshes. 
+        - Development of a finite volume method Matlab code to model sound energy density diffusion in irregular tetrahedral meshes.
 
-    - title: Trainee engineer  
+    - title: Trainee engineer
       institution: CERN, the European Organization for Nuclear Research, Geneva, Switzerland.
       year: 2017
       description:
-        - Modeling the noise impact of the LHC expansion (HL-LHC) with an engineering software. 
-
+        - Modeling the noise impact of the LHC expansion (HL-LHC) with an engineering software.
 
 - title: Awards and Grants
   type: list
@@ -93,22 +91,22 @@
 
 - title: Special Skills
   type: nested_list
-  contents: 
+  contents:
     - title: Programming languages
       items:
         - Python
         - C99 (OpenCL)
         - Matlab
         - Zsh, Bash
-    - title: Documents rendering languages 
+    - title: Documents rendering languages
       items:
         - LaTex
         - Markdown
     - title: Softwares
-      items: 
+      items:
         - FreeCAD
         - Solidworks
-        - Slurm Workload Manager 
+        - Slurm Workload Manager
         - Git
         - Inkscape
 
@@ -116,7 +114,7 @@
   type: nested_list
   contents:
     - title: Acoustics
-      items: 
+      items:
         - Sound & biodiversity
         - Disturbance noise effect on quiet areas
     - title: Numerical modelization methods

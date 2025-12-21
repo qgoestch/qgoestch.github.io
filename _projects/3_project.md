@@ -1,7 +1,7 @@
 ---
 layout: page
 title: World tour hitchhiking
-description: 
+description:
 img: assets/img/map.png
 redirect: https://lemondeapetitpas.wordpress.com/
 importance: 3

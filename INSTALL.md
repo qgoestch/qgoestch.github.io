@@ -1,6 +1,7 @@
 # Installing and Deploying
 
 <!--ts-->
+
 - [Installing and Deploying](#installing-and-deploying)
   - [Recommended Approach](#recommended-approach)
   - [Local setup on Windows](#local-setup-on-windows)
@@ -18,7 +19,7 @@
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
     - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
   - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-<!--te-->
+  <!--te-->
 
 ## Recommended Approach
 
@@ -165,14 +166,12 @@ If you need to manually re-deploy your website to GitHub pages, go to Actions, c
 1. [Use this template -> Create a new repository](https://github.com/new?template_name=al-folio&template_owner=alshedivat).
 2. Netlify: **Add new site** -> **Import an existing project** -> **GitHub** and give Netlify access to the repository you just created.
 3. Netlify: In the deploy settings
-
    - Set **Branch to deploy** to `main`
    - **Base directory** is empty
    - Set **Build command** to `sed -i "s/^\(baseurl: \).*$/baseurl:/" _config.yml && bundle exec jekyll build`
    - Set **Publish directory** to `_site`
 
 4. Netlify: Add the following two **environment variables**
-
    - | Key            | Value                                                                                  |
      | -------------- | -------------------------------------------------------------------------------------- |
      | `JEKYLL_ENV`   | `production`                                                                           |

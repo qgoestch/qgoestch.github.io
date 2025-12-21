@@ -62,9 +62,7 @@
       "startDate": "2017-01-01",
       "endDate": "2018-12-31",
       "summary": "Research on applicability of the diffusion equation method for acoustic simulations on 3D urban models.",
-      "highlights": [
-        "Development of a finite volume method Matlab code to model sound energy density diffusion in irregular tetrahedral meshes"
-      ]
+      "highlights": ["Development of a finite volume method Matlab code to model sound energy density diffusion in irregular tetrahedral meshes"]
     },
     {
       "name": "CERN, the European Organization for Nuclear Research",
@@ -135,10 +133,7 @@
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
       "score": "",
-      "courses": [
-        "Fundamentals of physics and technology",
-        "Preparation for Grandes Ecoles competitive entrance exams"
-      ]
+      "courses": ["Fundamentals of physics and technology", "Preparation for Grandes Ecoles competitive entrance exams"]
     }
   ],
   "awards": [
@@ -164,34 +159,19 @@
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C99 (OpenCL)",
-        "Matlab",
-        "Zsh",
-        "Bash"
-      ]
+      "keywords": ["Python", "C99 (OpenCL)", "Matlab", "Zsh", "Bash"]
     },
     {
       "name": "Document Rendering",
       "level": "Advanced",
       "icon": "fa-solid fa-file-text",
-      "keywords": [
-        "LaTeX",
-        "Markdown"
-      ]
+      "keywords": ["LaTeX", "Markdown"]
     },
     {
       "name": "Software Tools",
       "level": "Advanced",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "FreeCAD",
-        "Solidworks",
-        "Slurm Workload Manager",
-        "Git",
-        "Inkscape"
-      ]
+      "keywords": ["FreeCAD", "Solidworks", "Slurm Workload Manager", "Git", "Inkscape"]
     },
     {
       "name": "Acoustics",
@@ -227,31 +207,17 @@
     {
       "name": "Outdoor Activities",
       "icon": "fa-solid fa-mountain",
-      "keywords": [
-        "Mountaineering",
-        "Climbing",
-        "Hiking",
-        "Backcountry skiing",
-        "Alpine skiing",
-        "Sailing"
-      ]
+      "keywords": ["Mountaineering", "Climbing", "Hiking", "Backcountry skiing", "Alpine skiing", "Sailing"]
     },
     {
       "name": "Music",
       "icon": "fa-solid fa-music",
-      "keywords": [
-        "Bass guitar"
-      ]
+      "keywords": ["Bass guitar"]
     },
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Sound & biodiversity",
-        "Disturbance noise effect on quiet areas",
-        "Time domain methods",
-        "Meshing processes"
-      ]
+      "keywords": ["Sound & biodiversity", "Disturbance noise effect on quiet areas", "Time domain methods", "Meshing processes"]
     }
   ],
   "references": [],
