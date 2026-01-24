@@ -10,6 +10,7 @@ nav_order: 2
 ## International Scientific Communications
 
 ---
+- [6<sup>th</sup> Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan](https://acousticalsociety.org/honolulu-2025/), Honolulu, Hawaii, USA. December, 2025. <br> Oral presentation: "_Automated localization of fin whale calls on four days of Ocean Observatories Initiative distributed acoustic sensing data_" 
 
 - [188<sup>th</sup> Meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/), New Orleans, USA. May, 2025. <br> Oral presentation: "_Automated Association and
   Localization of Fin Whale Calls Recorded with Distributed Acoustic Sensing_"
