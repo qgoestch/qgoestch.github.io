@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "A short summary of the courses I taught.",
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
+          description: "A glimpse of the field work I participated in.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/fieldwork/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -50,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "A short summary of the courses I taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -455,6 +462,11 @@ ninja.data = [{
           description: "Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-das4whales-python-package",
+          title: 'DAS4Whales python package',
+          description: "Project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
