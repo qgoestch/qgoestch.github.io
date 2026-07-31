@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: A short summary of the courses I taught.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ### Computer science teacher at [Strasbourg University](https://en.unistra.fr/)

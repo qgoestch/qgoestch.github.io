@@ -30,6 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ph.D. in acoustics. Postdoctoral researcher at the [School of Oceanography](https://www.ocean.washington.edu/) in the [Ocean Data Lab](https://sites.uw.edu/abadi/) on marine mammal localization using distributed acoustic sensing (DAS).
+Ph.D. in Acoustics. [CNRS](https://www.cnrs.fr/fr) postdoctoral researcher in the [Geoazur lab](https://geoazur.oca.eu/fr/acc-geoazur), working on the [SENSEI](https://senseiproject.eu/) project. Maintainer and developer of [DAS4whales](https://das4whales.readthedocs.io/en/latest/).
 
-Former student of [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) and [Sorbonne Université](https://sciences.sorbonne-universite.fr/en/masters/master-mechanical-engineering/acoustics-course), I did my Ph.D. in Acoustics at [UMRAE](https://www.umrae.fr/). The joint research unit is hosted by two institutes: the [CEREMA - Strasbourg](https://www.cerema.fr/en) and the [Université Gustave Eiffel - Nantes Campus](https://www.univ-gustave-eiffel.fr/en/), working together on noise characterization and reduction of its environmental impact.
+**Previously**:
+
+- Postdoctoral researcher at the [University of Washington School of Oceanography](https://www.ocean.washington.edu/) ([Ocean Data Lab](https://sites.uw.edu/abadi/)), where I worked on marine mammal localization using _Distributed Acoustic Sensing (DAS)_.
+- Ph.D. student in acoustics at [UMRAE](https://www.umrae.fr/), a joint research unit hosted by [CEREMA](https://www.cerema.fr/en) and [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/), focused on noise characterization and reducing its environmental impact.
+- Student at [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) and [Sorbonne Université](https://sciences.sorbonne-universite.fr/en/masters/master-mechanical-engineering/acoustics-course).
